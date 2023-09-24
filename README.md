@@ -10,6 +10,7 @@
 <img src="https://img.shields.io/badge/C++%20-111111.svg?&style=for-the-badge&logo=C%2B%2B&logoColor=blue">
 <img src="https://img.shields.io/badge/Visual%20Studio%20Code%20-111111.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=blue">
 <img src="https://img.shields.io/badge/Python%20-111111.svg?&style=for-the-badge&logo=Python&logoColor=yellow">
+<img src="https://img.shields.io/badge/JavaScript%20-111111.svg?&style=for-the-badge&logo=JavaScriptB&logoColor=blue">
 </div>
 
 
