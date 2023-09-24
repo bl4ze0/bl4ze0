@@ -1,4 +1,7 @@
-[![baby](https://media.discordapp.net/attachments/1155456115283341324/1155459573956751440/banner.png)](https://discord.com/users/934785522608525323)
+
+<div align="center">
+<a <img src="https://cdn.discordapp.com/attachments/1155456115283341324/1155459573956751440/banner.png"> </a>
+</div>
 
 <div align="center">
 <h3>Contact İnformation</h3>
