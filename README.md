@@ -1,7 +1,4 @@
-[![baby]([https://media.discordapp.net/attachments/833660356026826792/861523576398282792/banner.png](https://cdn.discordapp.com/attachments/1154135519475802162/1155451778570137732/Bl4ze.png))](https://discord.com/users/934785522608525323)
-
-
-
+[![BL4ZE](https://cdn.discordapp.com/attachments/1154135519475802162/1155451778570137732/Bl4ze.png)](https://discord.com/users/934785522608525323)
 
 <div align="center">
 <h3>Contact İnformation</h3>
