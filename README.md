@@ -1,5 +1,4 @@
-<img align="middle" alt="Coding" width="50" src="https://cdn.discordapp.com/attachments/1154135519475802162/1155451778570137732/Bl4ze.png">
-
+[![bl4ze](https://cdn.discordapp.com/attachments/1154135519475802162/1155451778570137732/Bl4ze.png)](https://discord.com/users/934785522608525323)
 
 <div align="center">
 <h3>Contact İnformation</h3>
