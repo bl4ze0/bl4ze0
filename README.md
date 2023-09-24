@@ -1,6 +1,6 @@
 
 <div align="center">
-<img src="https://cdn.discordapp.com/attachments/1155456115283341324/1155459573956751440/banner.png"> </a>
+<img src="https://media.discordapp.net/attachments/1155456115283341324/1155459573956751440/banner.png"> </a>
 </div>
 
 <div align="center">
