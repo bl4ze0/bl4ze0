@@ -1,4 +1,4 @@
-[!bl4ze](https://media.discordapp.net/attachments/1155456115283341324/1155459573956751440/banner.png)
+[![baby](https://media.discordapp.net/attachments/1155456115283341324/1155459573956751440/banner.png)](https://discord.com/users/934785522608525323)
 
 <div align="center">
 <h3>Contact İnformation</h3>
