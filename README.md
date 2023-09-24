@@ -1,7 +1,6 @@
 
-<div align="center">
-<img src="https://media.discordapp.net/attachments/1155456115283341324/1155459573956751440/banner.png"> </a>
-</div>
+![alt text](https://cdn.discordapp.com/attachments/1155456115283341324/1155459573956751440/banner.png)
+
 
 <div align="center">
 <h3>Contact İnformation</h3>
