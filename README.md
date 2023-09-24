@@ -1,4 +1,4 @@
-[![bl4ze](https://cdn.discordapp.com/attachments/1154135519475802162/1155451778570137732/Bl4ze.png)](https://discord.com/users/934785522608525323)
+[![bl4ze](https://media.discordapp.net/attachments/1155456115283341324/1155459573956751440/banner.png)](https://discord.com/users/934785522608525323)
 
 <div align="center">
 <h3>Contact İnformation</h3>
