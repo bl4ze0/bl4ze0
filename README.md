@@ -1,8 +1,6 @@
-<p align=”center”>
-
-<img width=”200" height=”200" src=”https://cdn.discordapp.com/attachments/1155456115283341324/1155459573956751440/banner.png" alt=”my banner”>
-
-</p>
+<h1 align="center">
+ <img src="[image-url-here](https://media.discordapp.net//attachments/1155456115283341324/1155459573956751440/banner.png)" />
+</h1>
 
 
 <div align="center">
