@@ -1,8 +1,3 @@
-<h1 align="center">
- <img src="[image-url-here](https://media.discordapp.net//attachments/1155456115283341324/1155459573956751440/banner.png)" />
-</h1>
-
-
 <div align="center">
 <h3>Contact İnformation</h3>
 <a href="https://discord.com/users/934785522608525323" target"blank_"><img src="https://img.shields.io/badge/Discord%20-111111.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
