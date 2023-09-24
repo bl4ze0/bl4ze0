@@ -4,16 +4,6 @@
 <a href="https://github.com/bl4ze0" target"blank_"><img src="https://img.shields.io/badge/GitHub%20-111111.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
 </div>
 
-
-<div align="center">
-<h3>Useful Youtubers</h3>
-<a href="https://www.youtube.com/@TechWithTim" target"blank_"><img src="https://img.shields.io/badge/Tech%20With%20Tim%20-111111.svg?&style=for-the-badge&logo=youtube&logoColor=white"></a>
-<a href="https://www.youtube.com/@NetworkChuck" target"blank_"><img src="https://img.shields.io/badge/NetworkChuck%20-111111.svg?&style=for-the-badge&logo=youtube&logoColor=white"></a>
-<a href="https://www.youtube.com/@_JohnHammond" target"blank_"><img src="https://img.shields.io/badge/John%20Hammond%20-111111.svg?&style=for-the-badge&logo=youtube&logoColor=white"></a>
-</div>
-
-
-
 <div align="center">
 <h3>Languages and Tools</h3>
 <a <img src="https://img.shields.io/badge/JavaScript%20-111111.svg?&style=for-the-badge&logo=JavaScript&logoColor=white"> </a>
@@ -22,6 +12,15 @@
 <img src="https://img.shields.io/badge/Python%20-111111.svg?&style=for-the-badge&logo=Python&logoColor=white">
 <img src="https://img.shields.io/badge/JavaScript%20-111111.svg?&style=for-the-badge&logo=JavaScript&logoColor=white">
 </div>
+
+
+<div align="center">
+<h3>Useful Youtubers</h3>
+<a href="https://www.youtube.com/@TechWithTim" target"blank_"><img src="https://img.shields.io/badge/Tech%20With%20Tim%20-111111.svg?&style=for-the-badge&logo=youtube&logoColor=white"></a>
+<a href="https://www.youtube.com/@NetworkChuck" target"blank_"><img src="https://img.shields.io/badge/NetworkChuck%20-111111.svg?&style=for-the-badge&logo=youtube&logoColor=white"></a>
+<a href="https://www.youtube.com/@_JohnHammond" target"blank_"><img src="https://img.shields.io/badge/John%20Hammond%20-111111.svg?&style=for-the-badge&logo=youtube&logoColor=white"></a>
+</div>
+
 
 <div align="center">
 <h3>Github Stats</h3>
