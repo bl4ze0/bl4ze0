@@ -1,5 +1,8 @@
+<p align=”center”>
 
-![Uploading banner.png…]()
+<img width=”200" height=”200" src=”https://cdn.discordapp.com/attachments/1155456115283341324/1155459573956751440/banner.png" alt=”my banner”>
+
+</p>
 
 
 <div align="center">
