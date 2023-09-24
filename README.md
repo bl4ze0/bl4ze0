@@ -1,4 +1,4 @@
-<img align="middle" alt="Coding" width="100" src="https://cdn.discordapp.com/attachments/1154135519475802162/1155451778570137732/Bl4ze.png">
+<img align="middle" alt="Coding" width="50" src="https://cdn.discordapp.com/attachments/1154135519475802162/1155451778570137732/Bl4ze.png">
 
 
 <div align="center">
